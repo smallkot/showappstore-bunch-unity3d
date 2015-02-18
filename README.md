@@ -19,7 +19,7 @@ Import `native-gateway.unitypackage` and `showappstore-bunch.unitypackage` to yo
 
 Add `ShowappstoreBunch` script to a game object on your scene. No more configuration is needed.
 
-At the moment only text sharing is supported, but it can be easily extended. Follow `ShowappstoreBunch` script to get additional details.
+Follow `ShowappstoreBunch` script to get additional details.
 
 Related projects
 ---
